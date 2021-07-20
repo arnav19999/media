@@ -1,0 +1,133 @@
+.literacy{
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  font-size: 67px;
+}
+.p{
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  font-size: 27px;
+}
+.image{
+   position: absolute;
+  top: 10%;
+  left: 50%;
+  height: 290px;
+  width: auto;
+}
+.p2{
+   position: absolute;
+  top: 100%;
+  left: 10%;
+  font-size: 27px;
+}
+.p3{
+ position: absolute;
+  top: 124%;
+  left: 52%;
+  font-size: 26px;
+}
+.img2{
+    position: absolute;
+  top: 124%;
+  left: 10%;
+  height: 450px;
+  width: 440px;
+}
+.h1{
+ position: absolute;
+  top: 230%;
+  left: 10%;
+  font-size: 67px; 
+}
+.img3{
+    position: absolute;
+  top: 230%;
+  left: 50%;
+  height: 450px;
+  width: 500px;
+}
+.p4{
+  position: absolute;
+  top: 330%;
+  left: 10%;
+  font-size: 27px;
+}
+.p5{
+  position: absolute;
+  top: 360%;
+  left: 30%;
+  font-size: 27px;
+}
+.p6{
+  position: absolute;
+  top: 380%;
+  left: 10%;
+  font-size: 27px;
+border: 3px solid red;
+  background-color: rgb(0, 255, 255)
+  
+}
+.p7{
+  position: absolute;
+  top: 400%;
+  left: 10%;
+  font-size: 27px;
+  border: 3px solid red;
+  background-color: rgb(0, 255, 255)
+}
+.p8{
+  position: absolute;
+  top: 430%;
+  left: 10%;
+  font-size: 27px;
+  border: 3px solid red;
+  background-color: rgb(0, 255, 255)
+}
+.p9{
+  position: absolute;
+  top: 450%;
+  left: 10%;
+  font-size: 27px;
+  border: 3px solid red;
+  background-color: rgb(0, 255, 255)
+}
+.p10{
+  position: absolute;
+  top: 480%;
+  left: 10%;
+  font-size: 27px;
+  border: 3px solid red;
+  background-color: rgb(0, 255, 255)
+}
+.h2{ 
+  position: absolute;
+  top: 500%;
+  left: 10%;
+  font-size: 67px; 
+
+}
+.img4{
+  position: absolute;
+  top: 510%;
+  left: 40%;
+  height: 290px;
+  width: 500px;
+}
+.p11{
+position: absolute;
+  top: 580%;
+  left: 10%;
+  font-size: 27px;
+}
+.img5{
+  position: absolute;
+  top: 620%;
+  left: 30%;
+  
+  width: 500px;
+}
+
+
